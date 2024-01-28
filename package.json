@@ -1,7 +1,7 @@
 {
   "name": "goit-advancedjs-hw-05",
   "version": "1.0.0",
-  "description": "",
+  "description": "Typescript project setup",
   "main": "index.js",
   "scripts": {
     "start": "web-dev-server --node-resolve --open --watch"
